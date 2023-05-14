@@ -39,13 +39,13 @@ Youtube Video Demo
 Clone the project
 
 ```bash
-  git clone https://github.com/Code-Decoders/indicultre-unity
+  git clone https://github.com/Code-Decoders/indicultre-unity-bnb
 ```
 
 Go to the project directory
 
 ```bash
-  cd indicultre
+  cd indicultre-unity-bnb
 ```
 
 Install dependencies
