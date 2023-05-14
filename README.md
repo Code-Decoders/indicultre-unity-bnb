@@ -17,20 +17,20 @@ Some features of IndiCultre are:
 - 10% Royalty to the Artists
 - Third person perspective
 - Historic art paintings and models
-- Deployed on superfast Mantle Blockchain
+- Deployed on superfast BNB Smartchain
 
 ## Demo
 
 Youtube Video Demo
 
-[![Youtube Video](https://img.youtube.com/vi/N_1A01mkE70/sddefault.jpg)](https://youtu.be/N_1A01mkE70)
+[![Youtube Video](https://img.youtube.com/vi/ODFQl4tUo04/sddefault.jpg)](https://youtu.be/ODFQl4tUo04)
 
 
 ## Tech Stack
 
 **Frontend:** ReactJs, Unity, Socket
 
-**Backend:** Solidity, Metamask, Remix, Mantle, Nethereum
+**Backend:** Solidity, Metamask, Remix, BNB SmartChain, Nethereum
 
 
 
@@ -95,4 +95,3 @@ If you have any feedback or contact, please reach out to us at info@codedecoder.
 
 - [@Maadhav](https://www.github.com/Maadhav)
 - [@kunal528](https://www.github.com/kunal528)
-- [@Vatsal596](https://gist.github.com/Vatsal596)
